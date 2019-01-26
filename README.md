@@ -7,6 +7,6 @@ This is a mini game project based on pure javaScript.<br>
 (4) The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn<br>
 (5) The first player to reach 100 points on GLOBAL score wins the game<br>
 
-<h2> Prerequisites <h2>
+<h2> Prerequisites </h2>
 To run this project you don't need anything else other than a browser.
   
