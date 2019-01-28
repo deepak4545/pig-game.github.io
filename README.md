@@ -17,6 +17,4 @@ To run this project locally-
 <h2> Prerequisites </h2>
 To run this project you don't need anything else other than a browser.
 
-<h2> Demo </h2>
-https://deepak4545.github.io/pig-game.github.io/.
-<p>ONLY ON LARGE SCREEN . NOT RESPONSIVE</p>
+
